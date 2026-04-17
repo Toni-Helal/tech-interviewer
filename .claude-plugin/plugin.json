@@ -1,0 +1,11 @@
+{
+  "name": "tech-interviewer",
+  "version": "0.1.0",
+  "description": "HR tech lead interviewer for web developer roles. Conducts technical interviews, prepares interview plans, evaluates candidates, and analyzes code challenges with comprehensive feedback.",
+  "author": {
+    "name": "Abu6oon"
+  },
+  "homepage": "https://github.com/abu6oon/tech-interviewer",
+  "license": "MIT",
+  "keywords": ["hiring", "interviews", "technical", "evaluation", "web-developer", "recruitment"]
+}

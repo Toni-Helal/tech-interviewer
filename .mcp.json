@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "linkedin-indeed": {
+      "command": "node",
+      "args": ["./mcp-server/linkedin-indeed-server.js"],
+      "env": {
+        "LINKEDIN_ACCESS_TOKEN": "${LINKEDIN_ACCESS_TOKEN}",
+        "INDEED_API_KEY": "${INDEED_API_KEY}"
+      }
+    }
+  }
+}
