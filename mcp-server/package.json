@@ -1,0 +1,13 @@
+{
+  "name": "linkedin-indeed-mcp-server",
+  "version": "1.0.0",
+  "description": "MCP server for LinkedIn candidate profiles and Indeed job listings",
+  "type": "module",
+  "main": "linkedin-indeed-server.js",
+  "scripts": {
+    "start": "node linkedin-indeed-server.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0"
+  }
+}
